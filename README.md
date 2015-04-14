@@ -2,4 +2,8 @@
 try to create a repository
 #import <FOUNDATION/FOUNDATION.H>
 
-hello,world.
+int main (int argc ,const char * argv[]) {
+    NSLog(@"hello,world.");
+}
+
+
